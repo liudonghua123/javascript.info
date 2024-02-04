@@ -1,0 +1,9 @@
+[submodule "modules/engine"]
+	path = modules/engine
+	url = https://github.com/javascript-tutorial/engine
+[submodule "repo/en.javascript.info"]
+	path = repo/en.javascript.info
+	url = https://github.com/javascript-tutorial/en.javascript.info.git
+[submodule "repo/zh.javascript.info"]
+	path = repo/zh.javascript.info
+	url = https://github.com/javascript-tutorial/zh.javascript.info.git
